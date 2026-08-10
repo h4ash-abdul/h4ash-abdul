@@ -5,11 +5,11 @@
 
 <p align="center">
   <picture>
-    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-d0a57144-mobile-dark.svg">
-    <source media="(max-width: 760px)" srcset="./assets/hero/agent-console-d0a57144-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-d0a57144-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/agent-console-d0a57144-light.svg">
-    <img src="./assets/hero/agent-console-d0a57144-dark.svg" alt="Abdul Haashir - Aspiring AI Engineer " width="100%">
+    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-29400060-mobile-dark.svg">
+    <source media="(max-width: 760px)" srcset="./assets/hero/agent-console-29400060-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-29400060-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/agent-console-29400060-light.svg">
+    <img src="./assets/hero/agent-console-29400060-dark.svg" alt="Abdul Haashir - Aspiring AI Engineer " width="100%">
   </picture>
 </p>
 
