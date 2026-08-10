@@ -78,6 +78,7 @@ function buildProfileLines(config) {
     lines.push({ type: "row", key: link.label, value: link.value });
   });
   lines.push({ type: "footer", value: "signal.locked > PROFILE / BUILD / SHARE" });
+  lines.push({ type: "blank" });
 
   return lines;
 }
