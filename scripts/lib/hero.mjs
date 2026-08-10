@@ -168,9 +168,14 @@ function buildSystemLayer(profileLines, { x, y, width, lineHeight, fontSize }, c
     clips.push(`<clipPath id="${id}"><rect x="${x - 3}" y="${(lineY - fontSize - 2).toFixed(2)}" width="0" height="${fontSize + 8}"><animate attributeName="width" from="0" to="${width}" dur="0.36s" begin="${begin}s" fill="freeze"/></rect></clipPath>`);
 
     if (line.type === "header") {
-      rows.push(`<g clip-path="url(#${id})"><text x="${x}" y="${lineY}" class="system-head"><tspan fill="${colors.violet}">${escapeXml(line.value)}</tspan><tspan fill="${colors.muted}"> ------------------------------------------</tspan></text></g>`);
+      const title = line.value;
+      const dashes = "-".repeat(Math.max(3, 55 - title.length - 1));
+      rows.push(`<g clip-path="url(#${id})"><text x="${x}" y="${lineY}" class="system-head"><tspan fill="${colors.violet}">${escapeXml(title)}</tspan><tspan fill="${colors.muted}"> ${dashes}</tspan></text></g>`);
     } else if (line.type === "section") {
-      rows.push(`<g clip-path="url(#${id})"><text x="${x}" y="${lineY}" class="system-section" fill="${colors.green}">- ${escapeXml(line.value)} -----------------------------------</text></g>`);
+      const title = line.value;
+      const prefix = `- ${title} `;
+      const dashes = "-".repeat(Math.max(3, 55 - prefix.length));
+      rows.push(`<g clip-path="url(#${id})"><text x="${x}" y="${lineY}" class="system-section" fill="${colors.green}">${escapeXml(prefix)}${dashes}</text></g>`);
     } else if (line.type === "footer") {
       rows.push(`<g clip-path="url(#${id})"><text x="${x}" y="${lineY}" class="system-footer" fill="${colors.blue}">${escapeXml(line.value)}</text></g>`);
     } else {
