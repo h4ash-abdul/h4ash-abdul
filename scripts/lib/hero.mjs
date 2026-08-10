@@ -4,7 +4,7 @@ import { resolve } from "node:path";
 import sharp from "sharp";
 import { clamp, escapeXml } from "./xml.mjs";
 
-const GENERATOR_VERSION = "agent-console-v1";
+const GENERATOR_VERSION = "agent-console-v2";
 
 const paletteDefinitions = {
   signal: {
