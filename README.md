@@ -23,7 +23,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=22D3EE&amp;height=50&amp;section=header&amp;text=GitHub%20Analytics&amp;fontSize=24&amp;fontAlignY=40" />
 </div>
   <p align="center">
-    <img width="419" src="https://github-stats-extended.vercel.app/api?username=h4ash-abdul&show_icons=true&hide=issues&title_color=22D3EE&text_color=E5E7EB&icon_color=38BDF8&bg_color=07111F&border_color=22D3EE" />
+    <img width="419" src="https://github-stats-extended.vercel.app/api?username=h4ash-abdul&card_width=419&show_icons=true&hide=issues&title_color=22D3EE&text_color=E5E7EB&icon_color=38BDF8&bg_color=07111F&border_color=22D3EE" />
     <img width="419" src="https://github-stats-extended.vercel.app/api/top-langs/?username=h4ash-abdul&layout=compact&card_width=419&title_color=22D3EE&text_color=E5E7EB&bg_color=07111F&border_color=22D3EE" />
   </p>
 <p align="center">
