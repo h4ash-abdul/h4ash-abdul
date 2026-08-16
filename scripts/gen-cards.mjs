@@ -1,6 +1,6 @@
 import fs from 'fs';
 
-const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="800" height="180" viewBox="0 0 800 180">
+const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" viewBox="0 0 800 360">
   <style>
     .title { font-family: 'Courier New', Consolas, monospace; font-size: 18px; font-weight: 700; fill: #22D3EE; }
     .desc { font-family: 'Courier New', Consolas, monospace; font-size: 13px; fill: #E5E7EB; }
@@ -8,7 +8,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="800" height="180" vi
     .icon { fill: #38BDF8; }
   </style>
   
-  <a href="https://github.com/abdulhaashiras-coder/Themis---Alt" target="_blank">
+  <a href="https://github.com/h4ash-abdul/Themis---Alt" target="_blank">
     <rect x="0" y="0" width="380" height="160" fill="#07111F" stroke="#22D3EE" stroke-width="1.5" rx="6" />
     <text x="20" y="32" class="title">🔐 Themis---Alt</text>
     <text x="20" y="60" class="desc">An alternative build of the</text>
@@ -18,7 +18,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="800" height="180" vi
     <text x="20" y="145" class="stack">Python / PyTorch / Next.js</text>
   </a>
 
-  <a href="https://github.com/abdulhaashiras-coder/krypts" target="_blank">
+  <a href="https://github.com/h4ash-abdul/krypts" target="_blank">
     <rect x="400" y="0" width="380" height="160" fill="#07111F" stroke="#22D3EE" stroke-width="1.5" rx="6" />
     <text x="420" y="32" class="title">⚖️ Krypts</text>
     <text x="420" y="60" class="desc">A modern web application</text>
@@ -26,6 +26,16 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="800" height="180" vi
     <text x="420" y="100" class="desc">graphics and DRM capabilities.</text>
     <text x="420" y="120" class="desc">Placed 1st at MindSpark'26.</text>
     <text x="420" y="145" class="stack">React / TypeScript / Python</text>
+  </a>
+
+  <a href="https://github.com/h4ash-abdul/Synthwave" target="_blank">
+    <rect x="0" y="180" width="380" height="160" fill="#07111F" stroke="#22D3EE" stroke-width="1.5" rx="6" />
+    <text x="20" y="212" class="title">🌊 Synthwave</text>
+    <text x="20" y="240" class="desc">A retro-futuristic web</text>
+    <text x="20" y="260" class="desc">experience inspired by</text>
+    <text x="20" y="280" class="desc">80s synthwave aesthetics.</text>
+    <text x="20" y="300" class="desc">Interactive and responsive.</text>
+    <text x="20" y="325" class="stack">TypeScript / React / CSS</text>
   </a>
 </svg>`;
 
