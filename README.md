@@ -61,3 +61,10 @@
   <img src="assets/badges/git.svg" height="36" />
   <img src="assets/badges/github.svg" height="36" />
 </p>
+
+## Recent Activity
+
+<!-- AUTO:ACTIVITY:START -->
+_Recent public activity will appear here after the workflow runs._
+<!-- AUTO:ACTIVITY:END -->
+

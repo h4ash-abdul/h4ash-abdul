@@ -125,6 +125,7 @@ ${renderLinks(config.links)}
   <img src="assets/badges/git.svg" height="36" />
   <img src="assets/badges/github.svg" height="36" />
 </p>
+${activitySection}
 `;
 
   await writeFile(resolve(readmePath), readme);
