@@ -91,7 +91,7 @@ ${renderLinks(config.links)}
     <img width="419" src="https://github-stats-extended.vercel.app/api/top-langs/?username=${config.profile.username}&layout=compact&card_width=419&title_color=22D3EE&text_color=E5E7EB&bg_color=07111F&border_color=22D3EE" />
   </p>
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=${config.profile.username}&amp;bg_color=07111F&amp;color=22D3EE&amp;line=38BDF8&amp;point=E5E7EB&amp;area=true&amp;border_color=22D3EE" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=${config.profile.username}&days=180&bg_color=07111F&color=22D3EE&line=38BDF8&point=E5E7EB&area=true&border_color=22D3EE" />
 </p>
 
 <div align="center">
