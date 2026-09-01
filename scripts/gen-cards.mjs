@@ -37,6 +37,15 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" vi
     <text x="20" y="300" class="desc">Interactive and responsive.</text>
     <text x="20" y="325" class="stack">TypeScript / React / CSS</text>
   </a>
+  <a href="https://github.com/h4ash-abdul/CIRCE" target="_blank">
+    <rect x="400" y="180" width="380" height="160" fill="#07111F" stroke="#22D3EE" stroke-width="1.5" rx="6" />
+    <text x="420" y="212" class="title">🔍 Circe</text>
+    <text x="420" y="240" class="desc">Automated detection of</text>
+    <text x="420" y="260" class="desc">circular trading fraud on</text>
+    <text x="420" y="280" class="desc">TReDS invoice platforms.</text>
+    <text x="420" y="300" class="desc">DevJams'26 showcase.</text>
+    <text x="420" y="325" class="stack">Python / Network Graph / JS</text>
+  </a>
 </svg>`;
 
 fs.writeFileSync('assets/projects.svg', svg);

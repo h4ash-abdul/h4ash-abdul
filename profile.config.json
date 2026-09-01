@@ -48,6 +48,14 @@
       "focus": "Security & Architecture",
       "summary": "A modern web application featuring advanced WebGL graphics and DRM.",
       "heroLabel": "Active project"
+    },
+    {
+      "name": "Circe",
+      "url": "https://github.com/h4ash-abdul/CIRCE",
+      "homepage": "https://circe-dusky.vercel.app/",
+      "focus": "Financial Intelligence",
+      "summary": "Automated detection of circular trading fraud on TReDS invoice platforms.",
+      "heroLabel": "DevJams'26"
     }
   ],
   "techStack": [
