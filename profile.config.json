@@ -38,8 +38,8 @@
       "url": "https://github.com/h4ash-abdul/Themis---Alt",
       "homepage": "",
       "focus": "Full-Stack AI",
-      "summary": "An alternative build of the Themis platform with advanced capabilities.",
-      "heroLabel": "Primary build"
+      "summary": "1st Place at MindSpark Hackathon & Top 5 Incubation in ISTE Hackathon. Interactive cyber-awareness platform.",
+      "heroLabel": "1st @ MindSpark"
     },
     {
       "name": "Krypts DRM",
@@ -54,8 +54,8 @@
       "url": "https://github.com/h4ash-abdul/CIRCE",
       "homepage": "https://circe-dusky.vercel.app/",
       "focus": "Financial Intelligence",
-      "summary": "Automated detection of circular trading fraud on TReDS invoice platforms.",
-      "heroLabel": "DevJams'26"
+      "summary": "Top 8 in DevJams (Google hackathon, 4,000+ participants). Automated detection of circular trading fraud on TReDS platforms.",
+      "heroLabel": "Top 8 @ DevJams"
     }
   ],
   "techStack": [

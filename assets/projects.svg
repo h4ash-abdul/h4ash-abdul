@@ -3,45 +3,48 @@
     .title { font-family: 'Courier New', Consolas, monospace; font-size: 18px; font-weight: 700; fill: #22D3EE; }
     .desc { font-family: 'Courier New', Consolas, monospace; font-size: 13px; fill: #E5E7EB; }
     .stack { font-family: 'Courier New', Consolas, monospace; font-size: 12px; font-weight: 700; fill: #38BDF8; }
-    .icon { fill: #38BDF8; }
+    .highlight { font-weight: 700; fill: #F59E0B; }
+    .highlight-green { font-weight: 700; fill: #10B981; }
+    .highlight-cyan { font-weight: 700; fill: #22D3EE; }
   </style>
   
   <a href="https://github.com/h4ash-abdul/Themis---Alt" target="_blank">
     <rect x="0" y="0" width="380" height="160" fill="#07111F" stroke="#22D3EE" stroke-width="1.5" rx="6" />
     <text x="20" y="32" class="title">🔐 Themis---Alt</text>
-    <text x="20" y="60" class="desc">An alternative build of the</text>
-    <text x="20" y="80" class="desc">Themis platform with advanced</text>
-    <text x="20" y="100" class="desc">capabilities. An interactive</text>
-    <text x="20" y="120" class="desc">cyber-awareness platform.</text>
-    <text x="20" y="145" class="stack">Python / PyTorch / Next.js</text>
+    <text x="20" y="58" class="desc">Interactive cyber-awareness platform.</text>
+    <text x="20" y="80" class="desc"><tspan class="highlight">🏆 1st Place</tspan> · MindSpark Hackathon</text>
+    <text x="20" y="102" class="desc"><tspan class="highlight-green">🚀 Top 5</tspan> · Incubation @ ISTE Hack</text>
+    <text x="20" y="124" class="desc">Full-stack defense build with AI.</text>
+    <text x="20" y="147" class="stack">Python / PyTorch / Next.js</text>
   </a>
 
   <a href="https://github.com/h4ash-abdul/krypts" target="_blank">
     <rect x="400" y="0" width="380" height="160" fill="#07111F" stroke="#22D3EE" stroke-width="1.5" rx="6" />
     <text x="420" y="32" class="title">⚖️ Krypts</text>
-    <text x="420" y="60" class="desc">A modern web application</text>
+    <text x="420" y="58" class="desc">A modern web application</text>
     <text x="420" y="80" class="desc">featuring advanced WebGL</text>
-    <text x="420" y="100" class="desc">graphics and DRM capabilities.</text>
-    <text x="420" y="120" class="desc">Placed 1st at MindSpark'26.</text>
-    <text x="420" y="145" class="stack">React / TypeScript / Python</text>
+    <text x="420" y="102" class="desc">graphics, shaders &amp; DRM security.</text>
+    <text x="420" y="124" class="desc">High-performance client runtime.</text>
+    <text x="420" y="147" class="stack">React / TypeScript / Python</text>
   </a>
 
   <a href="https://github.com/h4ash-abdul/Synthwave" target="_blank">
     <rect x="0" y="180" width="380" height="160" fill="#07111F" stroke="#22D3EE" stroke-width="1.5" rx="6" />
     <text x="20" y="212" class="title">🌊 Synthwave</text>
-    <text x="20" y="240" class="desc">A retro-futuristic web</text>
+    <text x="20" y="238" class="desc">A retro-futuristic web</text>
     <text x="20" y="260" class="desc">experience inspired by</text>
-    <text x="20" y="280" class="desc">80s synthwave aesthetics.</text>
-    <text x="20" y="300" class="desc">Interactive and responsive.</text>
-    <text x="20" y="325" class="stack">TypeScript / React / CSS</text>
+    <text x="20" y="282" class="desc">80s synthwave aesthetics.</text>
+    <text x="20" y="304" class="desc">Interactive and responsive.</text>
+    <text x="20" y="327" class="stack">TypeScript / React / CSS</text>
   </a>
+
   <a href="https://github.com/h4ash-abdul/CIRCE" target="_blank">
     <rect x="400" y="180" width="380" height="160" fill="#07111F" stroke="#22D3EE" stroke-width="1.5" rx="6" />
     <text x="420" y="212" class="title">🔍 Circe</text>
-    <text x="420" y="240" class="desc">Automated detection of</text>
-    <text x="420" y="260" class="desc">circular trading fraud on</text>
-    <text x="420" y="280" class="desc">TReDS invoice platforms.</text>
-    <text x="420" y="300" class="desc">DevJams'26 showcase.</text>
-    <text x="420" y="325" class="stack">Python / Network Graph / JS</text>
+    <text x="420" y="238" class="desc">Circular trading fraud detection on</text>
+    <text x="420" y="260" class="desc">TReDS invoice discount platforms.</text>
+    <text x="420" y="282" class="desc"><tspan class="highlight">🏆 Top 8</tspan> @ <tspan class="highlight-cyan">DevJams</tspan> · Conducted by Google</text>
+    <text x="420" y="304" class="desc">Ranked among 4,000+ participants.</text>
+    <text x="420" y="327" class="stack">Python / Network Graph / JS</text>
   </a>
 </svg>
