@@ -1,6 +1,4 @@
-import fs from 'fs';
-
-const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" viewBox="0 0 800 360">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" viewBox="0 0 800 360">
   <style>
     .title { font-family: 'Courier New', Consolas, monospace; font-size: 18px; font-weight: 700; fill: #22D3EE; }
     .desc { font-family: 'Courier New', Consolas, monospace; font-size: 13px; fill: #E5E7EB; }
@@ -49,8 +47,4 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" vi
     <text x="420" y="304" class="desc">Ranked among 4,000+ participants.</text>
     <text x="420" y="327" class="stack">Python / Network Graph / JS</text>
   </a>
-</svg>`;
-
-fs.writeFileSync('assets/projects.svg', svg);
-fs.writeFileSync('assets/projects-v2.svg', svg);
-console.log('projects.svg and projects-v2.svg created!');
+</svg>

@@ -98,7 +98,7 @@ ${renderLinks(config.links)}
   <img src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=22D3EE&amp;height=50&amp;section=header&amp;text=Featured%20Projects&amp;fontSize=24&amp;fontAlignY=40" />
 </div>
 <p align="center">
-  <img src="assets/projects.svg" alt="Featured Projects" />
+  <img src="assets/projects-v2.svg" alt="Featured Projects" />
 </p>
 
 <div align="center">
