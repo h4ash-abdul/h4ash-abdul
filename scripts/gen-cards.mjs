@@ -14,8 +14,8 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" vi
     <rect x="0" y="0" width="380" height="160" fill="#07111F" stroke="#22D3EE" stroke-width="1.5" rx="6" />
     <text x="20" y="32" class="title">🔐 Themis---Alt</text>
     <text x="20" y="58" class="desc">Interactive cyber-awareness platform.</text>
-    <text x="20" y="80" class="desc"><tspan class="highlight">🏆 1st Place</tspan> · MindSpark Hackathon</text>
-    <text x="20" y="102" class="desc"><tspan class="highlight-green">🚀 Top 5</tspan> · Incubation @ ISTE Hack</text>
+    <text x="20" y="80" class="desc"><tspan class="highlight-green">🚀 Top 5 &amp; Incubation Support</tspan></text>
+    <text x="20" y="102" class="desc">Awarded at the ISTE Hackathon.</text>
     <text x="20" y="124" class="desc">Full-stack defense build with AI.</text>
     <text x="20" y="147" class="stack">Python / PyTorch / Next.js</text>
   </a>
@@ -23,9 +23,9 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" vi
   <a href="https://github.com/h4ash-abdul/krypts" target="_blank">
     <rect x="400" y="0" width="380" height="160" fill="#07111F" stroke="#22D3EE" stroke-width="1.5" rx="6" />
     <text x="420" y="32" class="title">⚖️ Krypts</text>
-    <text x="420" y="58" class="desc">A modern web application</text>
-    <text x="420" y="80" class="desc">featuring advanced WebGL</text>
-    <text x="420" y="102" class="desc">graphics, shaders &amp; DRM security.</text>
+    <text x="420" y="58" class="desc">A modern web application featuring</text>
+    <text x="420" y="80" class="desc">advanced WebGL graphics &amp; DRM.</text>
+    <text x="420" y="102" class="desc"><tspan class="highlight">🏆 1st Place</tspan> · MindSpark Hackathon</text>
     <text x="420" y="124" class="desc">High-performance client runtime.</text>
     <text x="420" y="147" class="stack">React / TypeScript / Python</text>
   </a>
